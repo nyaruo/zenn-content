@@ -1,0 +1,14 @@
+{
+  "title": "1からスマートフォンアプリ開発をしてみる(メモ)",
+  "closed": true,
+  "archived": false,
+  "created_at": "2021-11-27",
+  "comments": [
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-11-27",
+      "body_markdown": "# はじめに\n今回はFlutterを用いてスマホアプリの開発を行なっていきます\nアプリ開発を行なったことない私が、開発してリリースするまでの過程をここに記載していきます\n適当に書き殴っていくと思うので、見にくい構成になっていると思います\n後々、記事にまとめようかなと考えています\n※ 人に見せる用で書いていないため、個人の日記くらいに思っていただければ幸いです\n\n# 今回最終的に作成したいアプリのイメージ\n![](https://storage.googleapis.com/zenn-user-upload/ec5ae1052743-20211128.png)\n\n## Flutterとは\n- Google社が提供する、オープンソースのフレームワークである\n- 1つの言語でiOS・Android・Webアプリが同時に開発可能\n- 上記のことから、最近ではFlutterがスマホアプリ開発の主流になりつつある\n\n# 環境構築\n環境構築をしたのは結構前ですが、下記のYoutubeを参考にさせて頂きました\n\n[【初心者向け超入門】MacでFlutterの環境構築（iOS/Androidアプリ開発,プログラミング）](https://www.youtube.com/watch?v=kpvVENfDCRc&t=959s)\n\n",
+      "body_updated_at": "2021-11-28"
+    }
+  ]
+}

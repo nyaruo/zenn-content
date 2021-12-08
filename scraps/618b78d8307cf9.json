@@ -1,0 +1,51 @@
+{
+  "title": "2022年度の目標を立てる",
+  "closed": true,
+  "archived": false,
+  "created_at": "2021-11-18",
+  "comments": [
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-03",
+      "body_markdown": "2022年度にやりたいこと、目標を適当に12月中に羅列していく\n\n大まかな目標としては、\n「自分に自信を持てるようになる」\n「継続的な目標、ルーティーンを作る」",
+      "body_updated_at": "2021-12-04"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-03",
+      "body_markdown": "競プロに参加する"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-03",
+      "body_markdown": "基本情報技術者とる"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-04",
+      "body_markdown": "ご飯日記をつける"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-04",
+      "body_markdown": "Githubに毎日草を生やす",
+      "children": [
+        {
+          "author": "nyarufoy",
+          "created_at": "2021-12-06",
+          "body_markdown": "paizaを1日最低一問は解いてあげる"
+        }
+      ]
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-05",
+      "body_markdown": "一週間に1つzennの記事を書く"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-12-05",
+      "body_markdown": "気になった知識を1日ノート1ページ書く"
+    }
+  ]
+}

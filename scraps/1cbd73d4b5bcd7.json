@@ -1,0 +1,19 @@
+{
+  "title": "typescriptについて学習する",
+  "closed": true,
+  "archived": false,
+  "created_at": "2021-11-29",
+  "comments": [
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-11-29",
+      "body_markdown": "https://qiita.com/irico/items/33744e15a4e0ca52d6bc\n\nhttps://www.pc-koubou.jp/magazine/41527#section04\n\nhttps://teratail.com/questions/48481",
+      "body_updated_at": "2021-11-29"
+    },
+    {
+      "author": "nyarufoy",
+      "created_at": "2021-11-29",
+      "body_markdown": "# データ型\nTypeScriptは、JavaScriptと異なり、データ型をあらかじめ指定することができる\n\n```\n// 数値型\nvar num:number;\nnum = 10;\nconsole.log('数値型: '+num);\n\n// 文字列型\nvar str:string;\nstr = '文字列';\nconsole.log('文字列: '+str);\n\n// 論理型\nvar isTrue:boolean;\nisTrue = true;\nconsole.log('論理型: '+isTrue);\n\n// 汎用型\nvar test:any;\ntest = 10;\nconsole.log('汎用型: '+test);\ntest = '何でも入る';\nconsole.log('汎用型: '+test);\n\n// 数値型の配列\nvar ary: number[];\nary = [100, 200, 300];\nconsole.log('配列: '+ary[1]);\n\n// 型推論（変数定義と同時に初期値を与えると、その型であると認識する）\nvar num2 = 20;\nconsole.log('型推論（数値型）: '+num2);\n```\n\n```diff:出力結果\n 数値型: 10\n文字列: 文字列\n論理型: true\n汎用型: 10\n汎用型: 何でも入る\n配列: 200\n型推論(数値型): 20\n```"
+    }
+  ]
+}
