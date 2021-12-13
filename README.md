@@ -28,3 +28,11 @@ published: true # 公開設定（falseにすると下書き）
 ```shell
 $ npx zenn preview 
 ```
+
+### push
+
+```
+$ git add .
+$ git commit -m " "
+$ git push -u origin main
+```
